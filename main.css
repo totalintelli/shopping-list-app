@@ -98,25 +98,25 @@ li input {
   border: none;
   border-radius: 3px;
   margin: auto 0;
-  padding: .5rem .75rem;
+  padding: 0.5rem 0.75rem;
   flex-shrink: 0;
   cursor: pointer;
-  font-size: .9rem;
-  letter-spacing: .5px;
-  transition: all .1s ease-in;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  transition: all 0.1s ease-in;
 }
 
 .btn[disabled] {
-  background: #8795a1
+  background: #8795a1;
 }
 
 .btn[disabled]:hover {
-  background: #606f7b
+  background: #606f7b;
 }
 
 .btn-primary {
-  background: #6cb2eb
-  color: #fff
+  background: #6cb2eb;
+  color: #fff;
 }
 
 .btn-primary:hover {
@@ -125,17 +125,17 @@ li input {
 
 .btn-cancel {
   background: #ef5753;
-  color: #fff
+  color: #fff;
 }
 
 .btn-cancel:hover {
   background: #e3342f;
-  color: #fff
+  color: #fff;
 }
 
 .strickeout {
   text-decoration: line-through;
-  color: #b8c2cc
+  color: #b8c2cc;
 }
 
 .strikeout:hover {
